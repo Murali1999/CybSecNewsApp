@@ -1,6 +1,7 @@
 # CybSecNewsApp
 
 This is a news app for cyber security enthusiasts, updating them on all the latest happenings related to cyber security around the world.
+(Still in progress, only gathers news from one site.)
 This tool is created in python.
 
 Sample Output Image:
